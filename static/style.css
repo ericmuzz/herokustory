@@ -1,14 +1,14 @@
 html{
-    display: block;
-    margin: auto;
-    color: white;
-    background-color: blue;
+    color: #952413;
+    background-color: #76E209;
 }
 
 body{
-    align-items: center;
+    display: block;
+    position: absolute;
 }
 
 head{
-    align-items: center;
+    display: block;
+    position: absolute;
 }
