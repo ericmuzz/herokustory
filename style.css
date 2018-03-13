@@ -1,11 +1,14 @@
 html{
-
+    display: block;
+    margin: auto;
+    color: 'white';
+    background-color: 'blue';
 }
 
 body{
-
+    align-items: center;
 }
 
 head{
-  
+    align-items: center;
 }
