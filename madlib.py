@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def madlibform()
-    return render_template('madlibs.html')
+    return render_template('display.html')
 
 @app.route('/story', methods=['POST'])
 def madlibstory():
