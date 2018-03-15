@@ -3,9 +3,6 @@ html{
     background-color: #76E209;
 }
 
-body{
-    display: block;
-}
 
 div.left{
     float: left;
@@ -15,4 +12,7 @@ div.right{
     text-align: center;
     float: right;
     width: 33%;
+}
+footer{
+  float: none;
 }
