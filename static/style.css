@@ -8,7 +8,7 @@ body{
 }
 
 header{
-    display: block;
+    text-align: center;
 }
 h1{
     font-weight: bold;
