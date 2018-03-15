@@ -1,9 +1,11 @@
-html{
+body.mrrogers{
     color: #952413;
     background-color: #fff;
 }
-
-
+body.roger{
+    color: #fff;
+    background-color: #952413;
+}
 div.left{
     float: left;
     width: 64%;
