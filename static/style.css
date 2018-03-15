@@ -14,5 +14,5 @@ div.right{
     width: 33%;
 }
 footer{
-  float: none;
+  float: clear;
 }
