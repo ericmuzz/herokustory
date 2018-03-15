@@ -7,11 +7,8 @@ body{
     display: block;
 }
 
-header{
-    text-align: center;
-}
-h1{
-    font-weight: bold;
+div.container{
+    float: left;
 }
 main{
     text-align: center;
