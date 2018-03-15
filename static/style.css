@@ -7,10 +7,12 @@ body{
     display: block;
 }
 
-div.container{
+div.left{
     float: left;
+    width: 64%;
 }
-main{
+div.right{
     text-align: center;
     float: right;
+    width: 33%;
 }
