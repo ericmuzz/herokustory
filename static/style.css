@@ -10,3 +10,6 @@ body{
 header{
     display: block;
 }
+h1{
+    font-weight: bold;
+}
