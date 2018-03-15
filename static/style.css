@@ -12,4 +12,5 @@ div.container{
 }
 main{
     text-align: center;
+    display: inline;
 }
